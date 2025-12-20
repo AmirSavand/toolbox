@@ -1,9 +1,7 @@
-# Savand Bros Toolbox
-
-![GitHub Release](https://img.shields.io/github/v/release/AmirSavand/toolbox)
+# Savand Toolbox
 
 - 🏠 [Homepage](https://savandbros.com/apps/toolbox)
-- 💾 [Download](https://github.com/AmirSavand/toolbox/releases/latest)
+- 💾 [Download](https://savandbros.com/apps/toolbox)
 
 ---
 
